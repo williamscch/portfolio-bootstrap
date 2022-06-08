@@ -73,3 +73,25 @@ a {
   
   background-color: rgba(255, 255, 255, 0.24);
 }
+
+.information h2{
+  font-size: 72px;
+  color: #f55800;
+}
+
+.information p{
+  font-size: 20px;
+}
+
+.bg-aboutme{
+  position: absolute;
+  right: .55vw;
+}
+
+.title{
+  font-size: 32px;
+}
+
+.lists ul{
+  gap: 20px;
+}
