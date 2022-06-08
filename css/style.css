@@ -37,3 +37,39 @@ p {
 li {
     list-style: none;
 }
+
+a {
+  text-decoration: none;
+}
+/* Project Section */
+
+.title {
+  width: 100%;
+}
+
+.title h2{
+  width: 40%;
+}
+
+.line{
+  border-bottom: 1px solid black;
+  width: 100%;
+}
+
+.main-project-description a {
+  background-color: #F55800;
+  color: #fff;
+}
+
+.other-project {
+  background-color: dimgray;
+  width: 369px;
+  height: 435px;
+  background-image: url('/images/other-project-img.jpg');
+  background-repeat: no-repeat;
+}
+
+.other-project li {
+  
+  background-color: rgba(255, 255, 255, 0.24);
+}
