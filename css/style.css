@@ -1,0 +1,97 @@
+
+.hero {
+  background-color: #1c1a19;
+
+  /* background-image: url("/images/header.svg"); */
+
+  /* background-position: right bottom;
+  background-repeat: no-repeat;
+  background-size: cover; */
+
+  overflow-x: hidden;
+}
+
+.intro h1 {
+  color: #f55800;
+  font-size: 72px;
+}
+
+.intro h2,
+p {
+  color: #fff;
+}
+
+.intro h2 {
+  font-size: 32px;
+}
+
+.intro p {
+  font-size: 20px;
+}
+
+.background-img {
+  position: absolute;
+  left: 500px;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Project Section */
+
+.title {
+  width: 100%;
+}
+
+.title h2 {
+  width: 40%;
+}
+
+.line {
+  border-bottom: 1px solid black;
+  width: 100%;
+}
+
+.main-project-description a {
+  background-color: #f55800;
+  color: #fff;
+}
+
+.other-project {
+  background-color: dimgray;
+  width: 369px;
+  height: 435px;
+  background-image: url('/images/other-project-img.jpg');
+  background-repeat: no-repeat;
+}
+
+.other-project li {
+  background-color: rgba(255, 255, 255, 0.24);
+}
+
+.information h2 {
+  font-size: 72px;
+  color: #f55800;
+}
+
+.information p {
+  font-size: 20px;
+}
+
+.bg-aboutme {
+  position: absolute;
+  right: 0.55vw;
+}
+
+.title2 {
+  font-size: 32px;
+}
+
+.lists ul {
+  gap: 20px;
+}
